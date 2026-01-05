@@ -58,3 +58,28 @@ File Uploads: Cloudinary
 Payment Gateway (Simulation): Stripe / PayPal
 
 Email Notifications: NodeMailer
+
+
+💡 Features in Action
+
+JWT Authentication: Secure login & registration with token-based auth
+
+Admin Panel: CRUD operations for products and orders
+
+Cloudinary Upload: Store product images efficiently
+
+Stripe Integration: Simulated payment processing
+
+Email Notifications: Order confirmation emails
+
+Responsive Design: Works on desktop, tablet, and mobile
+
+📈 Future Enhancements
+
+Full Stripe/PayPal payment flow
+
+Product reviews & ratings
+
+Wishlist & favorites feature
+
+Advanced analytics dashboard for admins
