@@ -43,3 +43,18 @@ Advanced Features
 ✅ Responsive Design (Tailwind CSS)
 
 ✅ Loading States & Error Handling
+
+
+⚡ Tech Stack
+
+Frontend: React, TypeScript, Redux Toolkit, Tailwind CSS
+
+Backend: Node.js, Express, TypeScript, MongoDB (Mongoose)
+
+Authentication: JWT
+
+File Uploads: Cloudinary
+
+Payment Gateway (Simulation): Stripe / PayPal
+
+Email Notifications: NodeMailer
